@@ -1,0 +1,1 @@
+git filter-branch -f --index-filter 'git rm --cached --ignore-unmatch build/data/financial.gdx'

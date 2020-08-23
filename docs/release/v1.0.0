@@ -1,0 +1,14 @@
+                KEM v1.0.0
+        (Release Date: Jul. 24, 2017)
+
+First release of KEM (KAPSARC Energy Model).
+
+
+Countries Supported in this release:
+ - Saudi Arabia
+
+
+Features supported in this release:
+ - Option to integrate/exclude a sector.
+ - Two pricing rule options (marginal, administered).
+ - Predefined solution for linking variables when excluding a sector.

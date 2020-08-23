@@ -1,0 +1,17 @@
+*************************************************
+* GAMS 24.1.3 Default Parameterfile for Windows
+* KAPSARC Energy Model
+*************************************************
+* Version 1, Jun 20, 2017
+
+Idir=src;tools
+* LO=2 -> write to file, LO=4 -> write to stdout and file
+LO=4
+ErrorLog=99
+*Optdir=tools\optionFiles
+
+* General options
+limcol=9999999
+limrow=9999999
+
+ErrMsg=1

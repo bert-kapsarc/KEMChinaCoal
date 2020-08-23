@@ -1,0 +1,7 @@
+*KeepObj
+*FileName=build\mcpmod.gms
+SubSolver=path
+SubSolverOpt=1
+SharedEqu
+Dict=build\dict.txt
+*ZipDebug=1

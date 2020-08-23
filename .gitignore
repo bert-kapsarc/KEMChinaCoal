@@ -1,0 +1,16 @@
+**/*.par
+**/*.txt
+**/*.~*
+**/*.gdx
+**/*.lst
+**/*.lxi
+**/*.accdb
+**/*.xlsx
+**/*.log
+**/*.pf
+**/mcpmod.gms
+**/225*/*
+!**/build/data/*.gdx
+!**/build/data/loadcurve/*.gdx
+**/*.sublime-workspace
+**/*.gpr

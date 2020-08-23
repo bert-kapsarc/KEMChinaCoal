@@ -1,0 +1,32 @@
+                KEM v3.0.0
+        (Release Date: Sep. 4, 2018)
+
+In this release, GCC interconnection is presented in the transmission module,
+this allows the model to simulate electricity trade across the GCC. Also, 
+Product import has been added to upstream sector. 
+
+
+
+Countries calibrated in this release:
+ * Upstream, Power, and Water sectors:
+    - Saudi Arabia
+    - Kuwait
+    - UAE
+    - Qatar
+    - Bahrain
+    - Oman
+ * Refinery, Petrochemical, and Cement sector:
+    -Saudi Arabia
+
+
+
+Features supported in this release:
+ - Emission module has been added.
+ - Added a products import to upstream sector.
+ - Dynamic model for Saudi Arabia.
+
+
+
+Implementation in this release:
+ - The model is presented as an Equilibrium problem for EMP.
+ - Formulating the sectors of each country as a separate agent for EMP.

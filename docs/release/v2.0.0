@@ -1,0 +1,24 @@
+                KEM v2.0.0
+        (Release Date: Nov. 1, 2017)
+
+In this release, power sector has been split into two sectors, production and 
+transmission. Trade between countries also has been introduced; as well as 
+Calibration for the GCC countries. 
+
+
+Countries calibrated in this release:
+ * Upstream, Power, and Water sectors:
+    - Saudi Arabia
+    - Kuwait
+    - UAE
+    - Qatar
+    - Bahrain
+    - Oman
+ * Refinery, Petrochemical, and Cement sector:
+    -Saudi Arabia
+
+
+
+Features supported in this release:
+ - Transmission is a standalone sector.
+ - Power Trade among the GCC countries.

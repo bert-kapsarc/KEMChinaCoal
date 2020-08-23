@@ -1,0 +1,16 @@
+                KEM v1.1.0
+        (Release Date: Jul. 30, 2017)
+
+In this release, a country attribute is introduced, major bug fixing, and code
+cleaning of KEM.
+
+
+Countries calibrated in this release:
+ - Saudi Arabia
+
+
+Features supported in this release:
+ - Country attribute, allows the model to be calibrated to the GCC countries.
+ - Sectoral objective function is aggregated by country.
+ - Integrate/exclude a sector by country.
+ - Exclude a region from a country.
