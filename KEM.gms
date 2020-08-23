@@ -22,6 +22,8 @@ $title KEM v3.0.2 model using EMP
 *       --t_hyb model horizon for recursive dynamic runs: should be greater or equal to start year
 *******************************************************************************
 * tell GAMS to construct the mcp using EMP
+$set solveLP true 
+$set t_start 2016
 $ifThen not set solveLP
 $setglobal solveMCP true
 $endIf
